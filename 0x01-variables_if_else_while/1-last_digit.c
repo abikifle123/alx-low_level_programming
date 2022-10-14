@@ -4,9 +4,9 @@
 /* more headers goes there */
 
 /**
- * main - This is the main function, FUCK BETTY!!!!!!!!
+ * main - Here goes nothing!
  *
- * Return: This is bullshit
+ * Return: This is entertaining.
  */
 int main(void)
 {
