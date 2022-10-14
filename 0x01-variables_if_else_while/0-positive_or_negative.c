@@ -4,7 +4,7 @@
 /* more headers goes there */
 
 /**
- * main - Here is the function. 
+ * main - Here is the function.
  *
  * Return: This is fun!
  */
@@ -28,5 +28,3 @@ printf(" is positive\n");
 
 return (0);
 }
-
- 
