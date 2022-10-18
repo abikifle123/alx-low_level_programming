@@ -3,9 +3,9 @@
 /* more headers goes there */
 
 /**
- * main - Here lies the function. 
+ * main - Here lies the function.
  *
- * Return: This is fun!!
+ * Return: This is fun.
  */
 int main(void)
 {
