@@ -1,9 +1,16 @@
 #include "main.h"
+#include <stdio.h>
+
 /**
- *reset_to_98 - updates to 98
- *@n:takes an integer
+ * reset_to_98 - NOTHING
+ * @n: BullShit
+ *
+ * Return: IT'S A VOID!!!!!
  */
+
 void reset_to_98(int *n)
 {
-	*n = 98;
+
+*n = 98;
+
 }
