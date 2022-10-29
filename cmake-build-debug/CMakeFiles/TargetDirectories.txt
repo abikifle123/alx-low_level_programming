@@ -1,0 +1,2 @@
+C:/Users/Abigail/alx-projects/alx-low_level_programming/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Abigail/alx-projects/alx-low_level_programming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
