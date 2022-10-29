@@ -1,24 +1,15 @@
-#include "main.h"
-/**
- * _strcat - function that concatenates two strings.
- * @dest: destination of concat
- * @src: source array to concat
- * Return: char value
- */
-char *_strcat(char *dest, char *src)
-{
-	int i = 0;
-	int j = 0;
+#ifndef MAIN_H
+#define MAIN_H
 
-	while (dest[i] != '\0')
-	{
-		i++;
-	}
-	while (src[j] != '\0')
-	{
-		dest[i + j] = src[j];
-		j++;
-	}
-	i++;
-	return (dest);
-}
+int _putchar(char c);
+char *_strcat(char *dest, char *src);
+char *_strncat(char *dest, char *src, int n);
+char *_strncpy(char *dest, char *src, int n);
+int _strcmp(char *s1, char *s2);
+void reverse_array(int *a, int n);
+char *string_toupper(char *);
+char *rot13(char *);
+void print_number(int n);
+char *infinite_add(char *n1, char *n2, char *r, int size_r);
+
+#endif
